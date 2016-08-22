@@ -1,0 +1,6 @@
+paket.exe
+bin
+obj
+packages
+paket-files
+auth.data
